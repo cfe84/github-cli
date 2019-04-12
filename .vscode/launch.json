@@ -11,7 +11,7 @@
             "program": "${workspaceFolder}\\index.js",
             "args": [ "repo", "list" ],
             "env": {
-                "GITHUB_TOKEN": "Y2ZlODQ6N2ZhYjlmZmZiOWIxOTQ3MWU4MmQxMDg1YmY5ZDk0YjBlZWU2NmQxNg=="
+                "GITHUB_TOKEN": "PUT YOURS HERE"
             }
         }
     ]
